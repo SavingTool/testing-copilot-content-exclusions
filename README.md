@@ -16,7 +16,9 @@ The Content Exclusions settings:
 
 ![Content Exclusion Settings](content-exclusions-yaml.jpg)
 
-The GitHub Copilot IDE then respects my settings:
+The GitHub Copilot IDE Plugin then respects my settings.
+
+Observe how Copilot has access to `project-a`, but not `project-b` or `project-c`.
 
 ![Content Exclusions Applied (1)](content-exclusions-applied.jpg)
 
